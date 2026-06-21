@@ -2,7 +2,7 @@
 
 About Me
 - B.Tech CSE Student
-- Learning Python and DSA
+- Learning Python, DSA, SQL, Problem solving
 - Interested in Backend Development and GenAI
 - Looking for Software Engineering Internships
 
