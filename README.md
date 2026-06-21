@@ -1,7 +1,10 @@
 ## Hi, I'm Kavyansh!
 
-🧠 Computer Science student at Bennett University<br>
-✍️ Web Dev enthusiast<br>
+About Me
+- B.Tech CSE Student
+- Learning Python and DSA
+- Interested in Backend Development and GenAI
+- Looking for Software Engineering Internships
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kavyansh_kd27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kavyansh Dhall) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhallkavyansh27@gmail.com) 
